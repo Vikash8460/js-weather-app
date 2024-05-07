@@ -25,4 +25,4 @@
 <p>Application is responsive for all mobile devices.</p>
 <p>Inspired by Jonah Lawrence tutorial.</p>
 
-Project Link: https://github.com/kateFrontend/Weather-app
+Project Link:https://github.com/Vikash8460/js-weather-app
